@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="E:/IdeaProjects/spring01quickstart/src/main/java/util/MessagePrinter.java" timestamp="1584864897873">
@@ -117,11 +117,11 @@
         <entry>e ./MessagePrnter.java</entry>
         <entry>split</entry>
         <entry>vsplit</entry>
-        <entry>bn</entry>
         <entry>p</entry>
         <entry>bp</entry>
         <entry>e file</entry>
         <entry>e</entry>
+        <entry>bn</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
