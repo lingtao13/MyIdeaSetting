@@ -30,8 +30,12 @@
           <option name="url" value="http://gitlab.sjzx.sse.com/es-export-group/MongoDB2ESExportSystem.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lingtao13/Spring5-first-meet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\penglingtao\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\Administrator\IdeaProjects" />
   </component>
 </application>
