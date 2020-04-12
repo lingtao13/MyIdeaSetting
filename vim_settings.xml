@@ -9,9 +9,9 @@
         <entry encoding="base64">XDxzcHJpbmdmcmFtZXdvcmtcPg==</entry>
         <entry>%s</entry>
         <entry>printer</entry>
+        <entry>beans</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/printer/new/gc</entry>
         <entry>w</entry>
         <entry>wq</entry>
         <entry>vim Application</entry>
@@ -31,6 +31,7 @@
         <entry>e file</entry>
         <entry>e</entry>
         <entry>bn</entry>
+        <entry>6,7s/beans/aop/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -43,6 +44,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -86,6 +93,13 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="33" />
       </file>
+      <file name="E:/IdeaProjects/Spring5-first-meet/spring-09-aop/src/main/resources/applicationContext.xml" timestamp="1586695856125">
+        <mark key="'" line="7" column="36" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="37" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="8" column="3" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" />
@@ -103,61 +117,62 @@
       <jump line="15" column="0" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/MessagePrinter.java" />
       <jump line="0" column="0" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/MessagePrinter.java" />
       <jump line="4" column="0" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/MessagePrinter.java" />
+      <jump line="7" column="36" filename="E:/IdeaProjects/Spring5-first-meet/spring-09-aop/src/main/resources/applicationContext.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHhzaTpzY2hlbWFMb2NhdGlvbj0i</text>
       </register>
       <register name="-" type="4">
-        <text>用</text>
+        <text encoding="base64">IHhzaTpzY2hlbWFMb2NhdGlvbj0i</text>
       </register>
       <register name="/" type="4">
-        <text>printer</text>
+        <text>beans</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFNlcnZpY2UoTWVzc2FnZVNlcnZpY2Ugc2VydmljZSkgewo=</text>
+        <text encoding="base64">ICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgIGh0dHBzOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zL3NwcmluZy1iZWFucy54c2QiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5zZXJ2aWNlLmdldE1lc3NhZ2UoKSk7CiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5zZXJ2aWNlLmdldE1lc3NhZ2UoKSk7CiAgICB9Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc2QK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5zZXJ2aWNlLmdldE1lc3NhZ2UoKSk7CiAgICB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc2QK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>e</text>
+        <text>6,7s/beans/aop/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>printer</last-search>
+      <last-search>beans</last-search>
       <last-offset />
-      <last-pattern>printer</last-pattern>
-      <last-replace>new</last-replace>
-      <last-substitute>printer</last-substitute>
+      <last-pattern>beans</last-pattern>
+      <last-replace>aop</last-replace>
+      <last-substitute>beans</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
