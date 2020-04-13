@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt quote" />
   </action>
