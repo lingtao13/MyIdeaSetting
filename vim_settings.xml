@@ -178,7 +178,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
+    <state version="5" enabled="false" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
