@@ -1,5 +1,5 @@
 <templateSet group="userDefine">
-  <template name="funcex" value="/**&#10; * @Description //TODO $end$&#10; * @Date $time$ $date$&#10; * @Param $param$&#10; * @return $return$&#10; **/" shortcut="ENTER" description="add a Comments for method" toReformat="false" toShortenFQNames="true">
+  <template name="mtc" value="/**&#10; *  $end$&#10; * @date $time$ $date$&#10; * @params $param$&#10; * @return $return$&#10; **/" shortcut="ENTER" description="add a Comments for method" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
