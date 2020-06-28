@@ -205,6 +205,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/File Header.txt.ft" timestamp="1593276893188">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/FirstMissingPositive.java" timestamp="1593275450891">
         <mark key="'" line="6" column="17" />
         <mark key="[" line="29" column="27" />
@@ -212,12 +215,37 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1593276891873">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/GetMaxRepetitions.java" timestamp="1593277003130">
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/GetMaxRepitition.java" timestamp="1593276830191">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1593276891987">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="29" column="21" filename="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/FirstMissingPositive.java" />
       <jump line="6" column="17" filename="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/FirstMissingPositive.java" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">IDRkZCoKICog5p2l5rqQ77ya5Yqb5omj77yITGVldENvZGXvvIkKICog6ZO+5o6l77yaaHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvY291bnQtdGhlLXJlcGV0aXRpb25zCiAqIOiRl+S9nOadg+W9kumihuaJo+e9kee7nOaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+WumOaWueaOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IDRkZCoKICog5p2l5rqQ77ya5Yqb5omj77yITGVldENvZGXvvIkKICog6ZO+5o6l77yaaHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvY291bnQtdGhlLXJlcGV0aXRpb25zCiAqIOiRl+S9nOadg+W9kumihuaJo+e9kee7nOaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+WumOaWueaOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>{</text>
+      </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
@@ -235,6 +263,10 @@
         <entry>main</entry>
       </history-search>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
