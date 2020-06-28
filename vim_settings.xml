@@ -218,10 +218,10 @@
       <file name="/HTML File.txt.ft" timestamp="1593276891873">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/GetMaxRepetitions.java" timestamp="1593277003130">
-        <mark key="[" line="27" column="41" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/GetMaxRepetitions.java" timestamp="1593309233821">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/GetMaxRepitition.java" timestamp="1593276830191">
         <mark key="[" line="5" column="30" />
@@ -238,9 +238,15 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">IDRkZCoKICog5p2l5rqQ77ya5Yqb5omj77yITGVldENvZGXvvIkKICog6ZO+5o6l77yaaHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvY291bnQtdGhlLXJlcGV0aXRpb25zCiAqIOiRl+S9nOadg+W9kumihuaJo+e9kee7nOaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+WumOaWueaOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldE1heFJlcGV0aXRpb25zKFN0cmluZyBzMSwgaW50IG4xLCBTdHJpbmcgczIsIGludCBuMil7CiAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldE1heFJlcGV0aXRpb25zKFN0cmluZyBzMSwgaW50IG4xLCBTdHJpbmcgczIsIGludCBuMil7CiAgICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAzZGZvcihjaGFyIGM6czIpewoKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">IDRkZCoKICog5p2l5rqQ77ya5Yqb5omj77yITGVldENvZGXvvIkKICog6ZO+5o6l77yaaHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvY291bnQtdGhlLXJlcGV0aXRpb25zCiAqIOiRl+S9nOadg+W9kumihuaJo+e9kee7nOaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+WumOaWueaOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
       </register>
       <register name="-" type="4">
