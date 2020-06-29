@@ -205,6 +205,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1593446102875">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/File Header.txt.ft" timestamp="1593276893188">
         <mark key="[" line="0" column="0" />
       </file>
@@ -289,6 +292,8 @@
         <entry>10</entry>
         <entry>20</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
