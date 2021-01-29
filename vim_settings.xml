@@ -205,14 +205,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593446102875">
+      <file name="/Dummy.txt" timestamp="1593469221905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1593276893188">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/JavaPro/leetcodesolutions/.gitignore" timestamp="1593469160924">
+        <mark key="[" line="0" column="46" />
+      </file>
       <file name="/a.dummy" timestamp="1593323242695">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/LongestValidParentheses.java" timestamp="1593863307793">
+        <mark key="'" line="41" column="27" />
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+        <mark key="^" line="41" column="26" />
       </file>
       <file name="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/FirstMissingPositive.java" timestamp="1593275450891">
         <mark key="'" line="6" column="17" />
@@ -238,42 +248,55 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1593276891987">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/ValidBrackets.java" timestamp="1593862989074" />
     </filemarks>
     <jumps>
       <jump line="29" column="21" filename="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/FirstMissingPositive.java" />
       <jump line="6" column="17" filename="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/FirstMissingPositive.java" />
       <jump line="19" column="1" filename="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/GetMaxRepetitions.java" />
+      <jump line="37" column="4" filename="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/LongestValidParentheses.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/LongestValidParentheses.java" />
+      <jump line="38" column="27" filename="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/LongestValidParentheses.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIOiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIOiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIOS9nOiAhe+8mmJhbmZlaXBlbmcKICAgIOmTvuaOpe+8mmh0dHBzOi8vbGVldGNvZGUtY24uY29tL3Byb2JsZW1zL2NvdW50LXRoZS1yZXBldGl0aW9ucy9zb2x1dGlvbi9zaHVhbmctYmFpLWppZS1mYS1xaXUtemFuLXFpdS1ndWFuLXpodS1ieS1iYW5mZWlwZS8KICAgIOadpea6kO+8muWKm+aJo++8iExlZXRDb2Rl77yJCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ewogICAg</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldE1heFJlcGV0aXRpb25zKFN0cmluZyBzMSwgaW50IG4xLCBTdHJpbmcgczIsIGludCBuMil7CiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAzZGZvcihjaGFyIGM6czIpewoKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IDRkZCoKICog5p2l5rqQ77ya5Yqb5omj77yITGVldENvZGXvvIkKICog6ZO+5o6l77yaaHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvY291bnQtdGhlLXJlcGV0aXRpb25zCiAqIOiRl+S9nOadg+W9kumihuaJo+e9kee7nOaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+WumOaWueaOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>20</text>
+      <register name="&quot;" type="4">
+        <text>())((</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>())((</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRkIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RhY2s8Q2hhcmFjdGVyPiBzdGFjaztkZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwdXQoJ30nLCd7Jyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwdXQoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRkY2xhc3MgU29sdXRpb24gewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIOiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIOS9nOiAhe+8mmJhbmZlaXBlbmcKICAgIOmTvuaOpe+8mmh0dHBzOi8vbGVldGNvZGUtY24uY29tL3Byb2JsZW1zL2NvdW50LXRoZS1yZXBldGl0aW9ucy9zb2x1dGlvbi9zaHVhbmctYmFpLWppZS1mYS1xaXUtemFuLXFpdS1ndWFuLXpodS1ieS1iYW5mZWlwZS8KICAgIOadpea6kO+8muWKm+aJo++8iExlZXRDb2Rl77yJCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ewogICAg</text>
+      </register>
+      <register name=":" type="4">
+        <text>20</text>
       </register>
     </registers>
     <search>
