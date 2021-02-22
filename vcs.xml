@@ -42,6 +42,10 @@
           <option name="url" value="http://gitlab.sjzx.sse.com/dianxin/ras-aas-back.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/spring-cloud-stream-app-starters/cdc-debezium" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\penglingtao\javaProject" />
