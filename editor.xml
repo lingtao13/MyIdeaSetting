@@ -3,7 +3,8 @@
     <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_SIZE" value="24" />
+    <option name="FONT_FAMILY" value="Source Code Pro" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">
