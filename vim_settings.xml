@@ -78,11 +78,23 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1593446102875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/File Header.txt.ft" timestamp="1593276893188">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/IdeaProjects/spring01quickstart/src/main/java/util/MessagePrinter.java" timestamp="1584864897873">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="19" column="0" />
@@ -90,22 +102,25 @@
         <mark key="^" line="23" column="51" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1593323242695">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/IdeaProjects/Spring5-first-meet/spring-09-aop/src/main/java/com/lingtao/log/Log.java" timestamp="1586694905715">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="12" column="18" />
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="E:/IdeaProjects/Spring5-first-meet/spring-09-aop/src/main/java/com/lingtao/log/Afterlog.java" timestamp="1586694978608">
-        <mark key="[" line="9" column="55" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/GetMaxRepitition.java" timestamp="1593276830191">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
       </file>
-      <file name="E:/IdeaProjects/spring01quickstart/src/main/java/util/Application.java" timestamp="1584864205170">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="14" />
-        <mark key="^" line="15" column="14" />
+      <file name="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/GetMaxRepetitions.java" timestamp="1593327927457">
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="73" column="4" />
+        <mark key="^" line="73" column="4" />
+        <mark key="." line="73" column="4" />
       </file>
       <file name="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" timestamp="1584864180043">
         <mark key="'" line="1" column="0" />
@@ -120,6 +135,33 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="33" />
       </file>
+      <file name="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/FirstMissingPositive.java" timestamp="1593275450891">
+        <mark key="'" line="6" column="17" />
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+      </file>
+      <file name="E:/IdeaProjects/helloworld/src/test/java/com/lingtao/helloworld/deleteDeterminedNodeFromLinkedList.java" timestamp="1614525580185">
+        <mark key="'" line="6" column="19" />
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="E:/IdeaProjects/Spring5-first-meet/spring-09-aop/src/main/java/com/lingtao/log/Afterlog.java" timestamp="1586694978608">
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="E:/IdeaProjects/spring01quickstart/src/main/java/util/Application.java" timestamp="1584864205170">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="14" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1593276891873">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/IdeaProjects/Spring5-first-meet/spring-09-aop/src/main/resources/applicationContext.xml" timestamp="1586695856125">
         <mark key="'" line="7" column="36" />
         <mark key="[" line="5" column="7" />
@@ -127,85 +169,74 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="37" />
       </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1593276891987">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="3" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" />
-      <jump line="26" column="0" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" />
-      <jump line="0" column="0" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" />
-      <jump line="11" column="37" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" />
-      <jump line="4" column="11" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" />
-      <jump line="2" column="11" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" />
-      <jump line="3" column="11" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" />
-      <jump line="20" column="0" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" />
-      <jump line="17" column="23" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" />
-      <jump line="18" column="8" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" />
-      <jump line="1" column="0" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/ApplicationSpring.java" />
-      <jump line="22" column="0" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/MessagePrinter.java" />
-      <jump line="15" column="0" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/MessagePrinter.java" />
-      <jump line="0" column="0" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/MessagePrinter.java" />
-      <jump line="4" column="0" filename="E:/IdeaProjects/spring01quickstart/src/main/java/util/MessagePrinter.java" />
-      <jump line="7" column="36" filename="E:/IdeaProjects/Spring5-first-meet/spring-09-aop/src/main/resources/applicationContext.xml" />
+      <jump line="29" column="21" filename="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/FirstMissingPositive.java" />
+      <jump line="6" column="17" filename="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/FirstMissingPositive.java" />
+      <jump line="19" column="1" filename="$USER_HOME$/JavaPro/leetcodesolutions/src/main/java/solutions20_50/GetMaxRepetitions.java" />
+      <jump line="6" column="19" filename="E:/IdeaProjects/helloworld/src/test/java/com/lingtao/helloworld/deleteDeterminedNodeFromLinkedList.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHhzaTpzY2hlbWFMb2NhdGlvbj0i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYobmV4dCE9bnVsbCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHhzaTpzY2hlbWFMb2NhdGlvbj0i</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>beans</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgIGh0dHBzOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zL3NwcmluZy1iZWFucy54c2QiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYobmV4dCE9bnVsbCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBTb2x1dGlvbihMaXN0Tm9kZSBsaXN0Tm9kZSl7CiAgICAgICAgCgogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIOiRl+S9nOadg+W9kuS9nOg/heaJgOacieM/guWVhuS4mui9rOi9veivt+iBlOezu+S9nOg/heiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAPwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIOS9nOg/he+8mmJhbmZlaXBlbmcKICAgIOmTvuaOpe+8mmh0dHBzOi8vbGVldGNvZGUtY24uY29tL3Byb2JsZW1zL2NvdW50LXRoZS1yZXBldGl0aW9ucy9zb2x1dGlvbi9zaHVhbmctYmFpLWppZS1mYS1xaXUtemFuLXFpdS1ndWFuLXpodS1ieS1iYW5mZWlwZS8KICAgIOadpea6kO+8muWKm+aJo++8iExlZXRDb2Rl77w/Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5zZXJ2aWNlLmdldE1lc3NhZ2UoKSk7CiAgICB9Cn0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">ewogICAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5zZXJ2aWNlLmdldE1lc3NhZ2UoKSk7CiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldE1heFJlcGV0aXRpb25zKFN0cmluZyBzMSwgaW50IG4xLCBTdHJpbmcgczIsIGludCBuMil7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc2QK</text>
+        <text encoding="base64">ICAgICAgICAzZGZvcihjaGFyIGM6czIpewoKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IDRkZCoKICog5p2l5rqQ77ya5Yqb5omj77yITGVldENvZGXvvD8KICog6ZO+5o6l77yaaHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvY291bnQtdGhlLXJlcGV0aXRpb25zCiAqIOiRl+S9nOadg+W9kumihuaJo+e9kee7nOaJP+acieM/guWVhuS4mui9rOi9veivt+iBlOezu+WumOaWueaOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOM/Pwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc2QK</text>
       </register>
       <register name=":" type="4">
-        <text>6,7s/beans/aop/g</text>
+        <text>20</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>beans</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>beans</last-pattern>
-      <last-replace>aop</last-replace>
-      <last-substitute>beans</last-substitute>
+      <last-pattern>main</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
